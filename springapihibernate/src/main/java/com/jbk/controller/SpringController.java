@@ -23,7 +23,7 @@ import com.jbk.service.SpringService;
 @CrossOrigin
 @ComponentScan("com.jbk")
 public class SpringController {
-	//i m in controller
+	//i m in spring controller
 	
 	@Autowired
 	SessionFactory sessionfactory;
