@@ -17,7 +17,7 @@ public class SpringDao {
 
 	@Autowired
 	SessionFactory sessionfactory;
-	
+	//springdao
 	public List<Employee> getAllemployee() {
 		// TODO Auto-generated method stub
 		//dao
