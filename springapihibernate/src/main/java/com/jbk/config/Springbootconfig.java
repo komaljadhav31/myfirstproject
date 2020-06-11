@@ -20,7 +20,7 @@ import com.jbk.hibernate.Employee;
 @ComponentScan("com.jbk.hibernate")
 public class Springbootconfig {
 //this is configuration class
-	
+	//i m in spring config
 	@Autowired
 	private ApplicationContext context;
 
