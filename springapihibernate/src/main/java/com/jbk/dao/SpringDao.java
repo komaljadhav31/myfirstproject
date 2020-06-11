@@ -20,7 +20,7 @@ public class SpringDao {
 	
 	public List<Employee> getAllemployee() {
 		// TODO Auto-generated method stub
-		
+		//dao
 		Session session=sessionfactory.openSession();
 		session.beginTransaction();
 		Criteria criteria=session.createCriteria(Employee.class);
